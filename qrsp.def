@@ -1,0 +1,7 @@
+; qrsp.def : Declares the module parameters for the DLL.
+
+LIBRARY      "qrsp"
+DESCRIPTION  'qrsp Windows Dynamic Link Library'
+
+EXPORTS
+    vm_entry @1

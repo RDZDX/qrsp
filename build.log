@@ -1,0 +1,19 @@
+C:\Program Files\MRE SDK V3.0.00\lib\MRE30\src\gccmain.c
+d:\MyGitHub\qrsp\bch15_5.c
+d:\MyGitHub\qrsp\binarize.c
+d:\MyGitHub\qrsp\decoder.c
+d:\MyGitHub\qrsp\error.c
+d:\MyGitHub\qrsp\image.c
+d:\MyGitHub\qrsp\img_scanner.c
+d:\MyGitHub\qrsp\isaac.c
+d:\MyGitHub\qrsp\qr_finder.c
+d:\MyGitHub\qrsp\qrdec.c
+d:\MyGitHub\qrsp\qrdectxt.c
+d:\MyGitHub\qrsp\qrsp.c
+d:\MyGitHub\qrsp\refcnt.c
+d:\MyGitHub\qrsp\rs.c
+d:\MyGitHub\qrsp\scanner.c
+d:\MyGitHub\qrsp\stf_syscalls_minimal.c
+d:\MyGitHub\qrsp\svg.c
+d:\MyGitHub\qrsp\symbol.c
+d:\MyGitHub\qrsp\util.c
