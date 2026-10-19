@@ -3,6 +3,7 @@ Basic app to scann QR code for MRE platform mobile phone (including Nokia S30+).
 If exist text file "e:\Qrsp.txt" all scanned QR texts saved on single text file, if not, in different autonamed files each (changing app name change default text file name). LEFT_SOFTKEY - next scann, RIGHT_SOFTKEY - exit app, KEY_DOWN - next page, KEY_UP - previous page. For using with Nokia mobile phone, app must be signed with IMSI (your SIM card) code.
 https://vxpatch.luxferre.top/
 Application file - "[Qrsp.vxp](https://rdzdx.github.io/qrsp/Qrsp.vxp)", "[Qrsp_+SMS.vxp](https://rdzdx.github.io/qrsp/Qrsp_+SMS.vxp)" (additionaly autocreate SMS draft from scanned QR text). For low memory phone: "[Qrsp_850KB.vxp](https://rdzdx.github.io/qrsp/Qrsp_850KB.vxp)". "[qrsp_gui.vxp](https://rdzdx.github.io/qrsp/qrsp_gui.vxp)". "[qrsp_gui_850KB.vxp](https://rdzdx.github.io/qrsp/qrsp_gui_850KB.vxp)". 
+
 ![alt text](https://rdzdx.github.io/qrsp/picture.jpg)
 
 ![alt text](https://rdzdx.github.io/qrsp/picture1.jpg)
