@@ -1,5 +1,0 @@
-include(cmake/AddMreExec.cmake)
-include(cmake/AddPackVxp.cmake)
-include(cmake/AddExecVxp.cmake)
-include(cmake/AddPackVsm.cmake)
-include(cmake/AddExecVsm.cmake)
