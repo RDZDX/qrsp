@@ -4,4 +4,4 @@ For using with Nokia mobile phone, app must be signed with IMSI (your SIM card) 
 https://vxpatch.luxferre.top/
 Application file - "[qrsp_gui.vxp](https://rdzdx.github.io/qrsp/qrsp_gui.vxp)". 
 
-![alt text](https://rdzdx.github.io/qrsp/picture1.jpg)
+![alt text](https://rdzdx.github.io/qrsp/picture4.jpg)
